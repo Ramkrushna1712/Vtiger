@@ -8,6 +8,7 @@ public class demo1 {
 	@Test
 	public void demo() {
 		System.out.println("here i have create a new class" );
+		System.out.println("here i have mad changes");
 	}
 
 }
