@@ -9,6 +9,8 @@ public class demo1 {
 	public void demo() {
 		System.out.println("here i have create a new class" );
 		System.out.println("from sample to git");
+		System.out.println("here i have mad changes");
+
 	}
 
 }
